@@ -28,6 +28,6 @@
 
 ## 크롤링 동작 과정
 
-<iframe width="894" height="503" src="https://www.youtube.com/embed/Eh40duS1a3Q" title="크롤링 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[![Video Label](http://img.youtube.com/vi/Eh40duS1a3Q/0.jpg)](https://youtu.be/Eh40duS1a3Q)
 
