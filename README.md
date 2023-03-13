@@ -4,7 +4,7 @@
 <br>
 
 
-## 사용한 프로그램
+## 사용 기술
 ![image](https://user-images.githubusercontent.com/70836243/224588059-df16451c-74b4-45e9-9e88-0bc865596cb5.png)
 
 <br>
