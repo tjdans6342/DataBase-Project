@@ -17,7 +17,7 @@
 
 ## 프로젝트 동작 과정
 
-- DB 갱신 과정
+- DB 갱신 과정 ([크롤링 영상](https://www.youtube.com/watch?v=Eh40duS1a3Q))
 ![image](https://user-images.githubusercontent.com/70836243/224588189-50a3f664-b985-43cb-83b9-443b4159b6da.png)
 
 
@@ -25,9 +25,4 @@
 ![image](https://user-images.githubusercontent.com/70836243/224588279-8ae806ed-8871-40c5-b123-ca5b44078d77.png)
 
 <br>
-
-## 크롤링 동작 과정
-
-
-[![Video Label](http://img.youtube.com/vi/Eh40duS1a3Q/0.jpg)](https://youtu.be/Eh40duS1a3Q)
 
